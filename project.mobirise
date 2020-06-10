@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Librus",
-    "currentPage": "index.html",
+    "currentPage": "librus.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -47,7 +47,7 @@
     "imageResize": true
   },
   "pages": {
-    "index.html": {
+    "librus.html": {
       "settings": {
         "main": true,
         "title": "Librus",
